@@ -1,0 +1,30 @@
+Id,Course,Batch,Faculty,Program,Total_Seats,Total_Students
+1,CSIT,2076,Science & Technology,IT,72,63
+2,CSIT,2077,Science & Technology,IT,72,47
+3,CSIT,2078,Science & Technology,IT,72,56
+4,CSIT,2079,Science & Technology,IT,72,64
+5,CSIT,2080,Science & Technology,IT,72,64
+6,CSIT,2081,Science & Technology,IT,72,72
+7,BIT,2076,Science & Technology,IT,36,31
+8,BIT,2077,Science & Technology,IT,36,30
+9,BIT,2078,Science & Technology,IT,36,28
+10,BIT,2079,Science & Technology,IT,36,29
+11,BIT,2080,Science & Technology,IT,36,29
+12,BIT,2081,Science & Technology,IT,36,36
+13,BCA,2076,Humanities,IT,35,30
+14,BCA,2077,Humanities,IT,35,24
+15,BCA,2078,Humanities,IT,35,31
+16,BCA,2079,Humanities,IT,35,29
+17,BCA,2080,Humanities,IT,35,32
+18,BCA,2081,Humanities,IT,35,35
+19,BICTE,2077,Education,IT,36,19
+20,BICTE,2078,Education,IT,36,8
+21,BICTE,2079,Education,IT,36,18
+22,BICTE,2080,Education,IT,36,31
+23,BICTE,2081,Education,IT,36,25
+24,BBA,2076,Management,Management,66,64
+25,BBA,2077,Management,Management,66,51
+26,BBA,2078,Management,Management,66,52
+27,BBA,2079,Management,Management,66,55
+28,BBA,2080,Management,Management,66,60
+29,BBA,2081,Management,Management,66,66
